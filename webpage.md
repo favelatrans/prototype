@@ -1,8 +1,8 @@
 # Transition Impact
 
-## 5 Bereiche
+## 5 areas
 
-die Seite ist in 5 Bereiche unterteilt:
+Die Seite ist in 5 Bereiche unterteilt:
 
 1. money
 2. building
@@ -10,9 +10,13 @@ die Seite ist in 5 Bereiche unterteilt:
 4. digital consum
 5. ernährung
 
-[github snrbrnjna](github.com/snrbrnjna)
-[github transimpact](github.com/transimpact)
+## Contributors
+- [github transimpact](http://github.com/transimpact)
+- [github favelahias](http://github.com/favelahias)
+- [github snrbrnjna](http://github.com/snrbrnjna)
 
-![horns](http://www.schacherbauerhof.de/medien/landlergschwister2.jpg)
+## Meta
+Written with 
+- [StackEdit](https://stackedit.io/).
+- [prose.io](http://prose.io/#favelatrans).
 
-> Written with [StackEdit](https://stackedit.io/).
